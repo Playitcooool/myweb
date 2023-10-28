@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17950" appversion="6.1.6" start="node1">
+  <panorama id="node1">
+    <input levelingpitch="0" width="1500" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" overlap="1" leveltilesize="510">
+      <level predecode="0" width="1500" preload="0" height="1500"/>
+      <level predecode="0" width="750" preload="0" height="750"/>
+      <level predecode="1" width="375" preload="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata source="" latitude="" description="" copyright="" heading="0" author="" customnodeid="" info="" nodeid="node1" title="" longitude="" datetime="4/11/2015 9:15 AM" comment="" tags="例5.3素材图片"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" border="1" backgroundcolor="0xffffff" width="180" background="1" textalpha="1" height="20" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" description="" tilt="-27.91" title="" pan="-62.96" id="客厅" url="{node5}" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" level="1.000" tilt="-1.000" mode="0" pansize="10.000" pan="-1.000" startmutedmobile="0" id="_background" loop="1" nodechangekeep="0" field="90.000" ambientlevel="0.000">
+        <source url="media/回家 - 咖啡厅休闲音乐.mp3"/>
+      </sound>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" type="crossdissolve" zoomfov="20" zoomout="0" enabled="1" blendtime="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" invertcontrol="1" contextprojections="0" contextfullscreen="1" speedwheel="1" sensitivity="8" lockedwheel="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" width="1500" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" overlap="1" leveltilesize="510">
+      <level predecode="0" width="1500" preload="0" height="1500"/>
+      <level predecode="0" width="750" preload="0" height="750"/>
+      <level predecode="1" width="375" preload="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata source="" latitude="" description="" copyright="" heading="0" author="" customnodeid="" info="" nodeid="node2" title="" longitude="" datetime="4/11/2015 9:14 AM" comment="" tags="例5.3素材图片"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" border="1" backgroundcolor="0xffffff" width="180" background="1" textalpha="1" height="20" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" description="" tilt="-11.04" title="" pan="-356.67" id="客厅" url="{node5}" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" level="1.000" tilt="-1.000" mode="0" pansize="10.000" pan="-1.000" startmutedmobile="0" id="_background" loop="1" nodechangekeep="0" field="90.000" ambientlevel="0.000">
+        <source url="media/梁祝 - 萨克斯风名曲与经典.mp3"/>
+      </sound>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" type="crossdissolve" zoomfov="20" zoomout="0" enabled="1" blendtime="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" invertcontrol="1" contextprojections="0" contextfullscreen="1" speedwheel="1" sensitivity="8" lockedwheel="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" width="1500" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" overlap="1" leveltilesize="510">
+      <level predecode="0" width="1500" preload="0" height="1500"/>
+      <level predecode="0" width="750" preload="0" height="750"/>
+      <level predecode="1" width="375" preload="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata source="" latitude="" description="" copyright="" heading="0" author="" customnodeid="" info="" nodeid="node3" title="" longitude="" datetime="4/11/2015 9:15 AM" comment="" tags="例5.3素材图片"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" border="1" backgroundcolor="0xffffff" width="180" background="1" textalpha="1" height="20" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" description="" tilt="-10.73" title="" pan="-353.02" id="餐厅" url="{node6}" target=""/>
+      <hotspot skinid="ht_node" description="" tilt="-18.95" title="" pan="-340.44" id="卧室" url="{node2}" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" level="1.000" tilt="-1.000" mode="0" pansize="10.000" pan="-1.000" startmutedmobile="0" id="_background" loop="1" nodechangekeep="0" field="90.000" ambientlevel="0.000">
+        <source url="media/萨克斯音乐1.mp3"/>
+      </sound>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" type="crossdissolve" zoomfov="20" zoomout="0" enabled="1" blendtime="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" invertcontrol="1" contextprojections="0" contextfullscreen="1" speedwheel="1" sensitivity="8" lockedwheel="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" width="1500" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" overlap="1" leveltilesize="510">
+      <level predecode="0" width="1500" preload="0" height="1500"/>
+      <level predecode="0" width="750" preload="0" height="750"/>
+      <level predecode="1" width="375" preload="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata source="" latitude="" description="" copyright="" heading="0" author="" customnodeid="" info="" nodeid="node4" title="" longitude="" datetime="4/11/2015 9:14 AM" comment="" tags="例5.3素材图片"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" border="1" backgroundcolor="0xffffff" width="180" background="1" textalpha="1" height="20" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" description="" tilt="-3.1" title="" pan="-129.87" id="餐厅" url="{node5}" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" level="1.000" tilt="-1.000" mode="0" pansize="10.000" pan="-1.000" startmutedmobile="0" id="_background" loop="1" nodechangekeep="0" field="90.000" ambientlevel="0.000">
+        <source url="media/萨克斯音乐2.mp3"/>
+      </sound>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" type="crossdissolve" zoomfov="20" zoomout="0" enabled="1" blendtime="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" invertcontrol="1" contextprojections="0" contextfullscreen="1" speedwheel="1" sensitivity="8" lockedwheel="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" width="1500" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" overlap="1" leveltilesize="510">
+      <level predecode="0" width="1500" preload="0" height="1500"/>
+      <level predecode="0" width="750" preload="0" height="750"/>
+      <level predecode="1" width="375" preload="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata source="" latitude="" description="" copyright="" heading="0" author="" customnodeid="" info="" nodeid="node5" title="" longitude="" datetime="4/11/2015 9:16 AM" comment="" tags="例5.3素材图片"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" border="1" backgroundcolor="0xffffff" width="180" background="1" textalpha="1" height="20" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" description="" tilt="-15.36" title="" pan="-86.74" id="餐厅" url="{node6}" target=""/>
+      <hotspot skinid="ht_node" description="" tilt="-6.16" title="" pan="-127.23" id="卫生间" url="{node3}" target=""/>
+      <hotspot skinid="ht_node" description="" tilt="-26.8" title="" pan="-51.55" id="书房" url="{node1}" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" level="1.000" tilt="-1.000" mode="0" pansize="10.000" pan="-1.000" startmutedmobile="0" id="_background" loop="1" nodechangekeep="0" field="90.000" ambientlevel="0.000">
+        <source url="media/清晨 经常使用的背景音乐.mp3"/>
+      </sound>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" type="crossdissolve" zoomfov="20" zoomout="0" enabled="1" blendtime="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" invertcontrol="1" contextprojections="0" contextfullscreen="1" speedwheel="1" sensitivity="8" lockedwheel="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" width="1500" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" overlap="1" leveltilesize="510">
+      <level predecode="0" width="1500" preload="0" height="1500"/>
+      <level predecode="0" width="750" preload="0" height="750"/>
+      <level predecode="1" width="375" preload="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata source="" latitude="" description="" copyright="" heading="0" author="" customnodeid="" info="" nodeid="node6" title="" longitude="" datetime="4/11/2015 9:14 AM" comment="" tags="例5.3素材图片"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" border="1" backgroundcolor="0xffffff" width="180" background="1" textalpha="1" height="20" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" description="" tilt="-0.35" title="" pan="-4.75" id="厨房" url="{node4}" target=""/>
+      <hotspot skinid="ht_node" description="" tilt="-29.24" title="" pan="-228.73" id="书房" url="{node1}" target=""/>
+      <hotspot skinid="ht_node" description="" tilt="-11.8" title="" pan="-88.52" id="卫生间" url="{node3}" target=""/>
+      <hotspot skinid="ht_node" description="" tilt="-14.73" title="" pan="-97.21" id="卧室" url="{node2}" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" level="1.000" tilt="-1.000" mode="0" pansize="10.000" pan="-1.000" startmutedmobile="0" id="_background" loop="1" nodechangekeep="0" field="90.000" ambientlevel="0.000">
+        <source url="media/回家 - 咖啡厅休闲音乐.mp3"/>
+      </sound>
+    </media>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2" type="crossdissolve" zoomfov="20" zoomout="0" enabled="1" blendtime="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" invertcontrol="1" contextprojections="0" contextfullscreen="1" speedwheel="1" sensitivity="8" lockedwheel="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata source="" latitude="" description="" copyright="" heading="0" author="" customnodeid="" info="" nodeid="master" title="" longitude="" datetime="" comment="" tags=""/>
+  </masternode>
+</tour>
